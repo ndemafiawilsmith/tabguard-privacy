@@ -27,6 +27,6 @@ Permissions are used strictly for functionality:
 
 ## Contact
 For support or questions, contact:
-**your-email@example.com**
+**wilsmithndemafia@gmail.com**
 
-_Last updated: 2025_
+_Last updated: DEC 2025_
